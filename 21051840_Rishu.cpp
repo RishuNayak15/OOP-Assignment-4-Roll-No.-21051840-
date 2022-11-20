@@ -1,7 +1,3 @@
-// write a program to use all the concept of OOPs like constructor, destructor, friend function, static member function, static data member, inline function, this pointer, virtual function, pure virtual function, abstract class, operator overloading, copy constructor, default constructor, parameterized constructor, dynamic memory allocation, hiraechy inheritance 
-// university class is BASE class
-// Library is derived class 
-
 #include <iostream>
 using namespace std;
 
